@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollViews</string>
+    <string name="header_title">Vertical ScrollView example</string>
+</resources>
